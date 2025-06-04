@@ -34,6 +34,7 @@ cd extension && npm install && npm run build
 cd .. && cd workflows
 uv sync
 source .venv/bin/activate # for mac / linux
+.venv\Scripts\activate # windows
 playwright install chromium
 cp .env.example .env # add your OPENAI_API_KEY to the .env file
 ```
