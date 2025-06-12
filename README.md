@@ -151,6 +151,7 @@ Show computer what it needs to do once, and it will do it over and over again wi
 - [ ] Take output from previous steps and use it as input for next steps
 - [ ] Expose workflows as MCP tools
 - [ ] Use Browser Use to automatically create workflows from websites
+- [ ] Add an LLM to create a workflow in the UI, while streaming browser and self correct. 
 
 ## Developer experience
 
