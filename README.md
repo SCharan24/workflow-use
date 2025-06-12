@@ -109,7 +109,10 @@ cd ui
 npm install
 npm run dev
 ```
-
+### if above method doesn't work this should execute the workflow. 
+```bash
+python run_server.py
+```
 Once both servers are running, you can access the Workflow GUI at http://localhost:5173 in your browser. The UI allows you to:
 
 - Visualize workflows as interactive graphs
