@@ -17,7 +17,7 @@
 git clone https://github.com/browser-use/workflow-use
 ```
 
-## Build the extension
+## Build the extension this is required to create workflow
 
 ```bash
 cd extension && npm install && npm run build
